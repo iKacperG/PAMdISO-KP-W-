@@ -15,3 +15,6 @@ console.log(`Suma wydatków: ${formatMoney(totalSpent)}`);
 console.log(`Średni wydatek: ${formatMoney(averageExpense)}`);
 console.log(`Największy wydatek: ${formatMoney(highestExpense)}`);
 console.log(`Liczba wydatków poniżej ${formatMoney(minorExpensesThreshold)}: ${minorExpenses}`);
+// działa sumowanie, średnia i maksimum.
+// dodano formatowanie kwot oraz licznik małych wydatków.
+// najtrudniejsze było poprawne sformatowanie kwot.
