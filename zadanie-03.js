@@ -13,3 +13,6 @@ console.log("Wszystkie produkty:");
 console.log(shoppingsDescriptions.join("\n"));
 console.log(`Liczba pilnych pozycji: ${urgentshoppingList.length}`);
 console.log(`Nazwy wielkimi literami:\n ${upperCaseNames.join("\n")}`);
+// działa filtrowanie pilnych produktów i mapowanie nazw.
+// dodano kategorię
+// najtrudniejsze było poprawne sformatowanie listy.
