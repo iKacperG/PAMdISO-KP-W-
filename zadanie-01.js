@@ -21,3 +21,8 @@ console.log(`Imię i nazwisko: ${fullName}`);
 console.log(studyDescription);
 console.log(`${user.firstName} ma ${user.age} lat, co znaczy, że jest ${adultStatus}.`);
 console.log(getAdditionalMessage(user));
+
+// działa tworzenie i update obiektu,
+// działa odczyt pól i komunikaty.
+// dodano ulubiony język, hobby i funkcję pomocniczą.
+// brak trudności przy wykonaniu przedmiotowego zadania;
