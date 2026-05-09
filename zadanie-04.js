@@ -22,3 +22,6 @@ console.log(`Status końcowy: ${readyStatus}`);
 !hasCharger && console.log("Ostrzeżenie: brakuje ładowarki, więc bateria może nie wystarczyć.");
 console.log(dayMessage);
 hasLaptop && dayType === "laboratorium" && console.log("Zabrano laptopa");
+// działa if else, operator trójargumentowy i warunek z podwójnym ampersandem.
+// dodano kartę studenta.
+// najtrudniejsze było poprawne zchainowanie warunków.
